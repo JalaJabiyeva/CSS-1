@@ -1,0 +1,18 @@
+.profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+ border-top: 5px solid red;
+ border-right: 5px solid blue;
+ border-bottom: 5px solid green;
+ border-left: 5px solid orange;
+outline-offset: 15px;
+background-color: blueviolet;
+display: flex;
+justify-content: center;
+align-items: center;
+color: aliceblue;
+font-size: large;
+  
+}
